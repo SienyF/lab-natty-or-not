@@ -20,23 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Importância da utilização das IAs no setor financeiro
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Vídeo sobre a utilização das IAs no setor financeiro
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT para redigir o texto
+HeyGen na criação do vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei ao ChatGPT a criação de um pequeno texto sobre a importância da utilização das IAs no sistema financeiro
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Vídeo https://app.heygen.com/videos/baacc220bd4b4621b9118449593ec564
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
